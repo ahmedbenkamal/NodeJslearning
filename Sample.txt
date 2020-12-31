@@ -1,0 +1,7 @@
+Aims:
+To be familiar with Node.js syntax
+To be familiar with Node Package Manager (npm)
+To be familiar with System File I\O in node js 
+To be familiar with exporting and importing & consuming modules.
+To be familiar of  node js Event loop ,How does node js work while executes its program.
+To be familiar ,How to create web server using "express"   
